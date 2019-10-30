@@ -7,5 +7,10 @@ https://developer.blackbaud.com/skyapi/docs/addins
 * https://github.com/blackbaud/sky-api-addin
 * https://github.com/blackbaud/addin-tokenauthentication
 * https://github.com/blackbaud/sky-addin-client
+
+## Samples
+
+* https://github.com/blackbaud/skyux-spa-addin-hello-world
+* https://github.com/blackbaud/skyux-spa-addin-modal-demo
 * https://github.com/blackbaud/addin-hello-world
 * https://github.com/blackbaud/skyux-spa-addin-flyout-demo

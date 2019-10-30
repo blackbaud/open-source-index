@@ -18,8 +18,6 @@
 * https://github.com/blackbaud/skyux-sdk-template-addin
 * https://github.com/blackbaud/skyux-sdk-template-library
 * https://github.com/blackbaud/skyux-sdk-template-addin-demo
-* https://github.com/blackbaud/skyux-spa-addin-hello-world
-* https://github.com/blackbaud/skyux-spa-addin-modal-demo
 * https://github.com/blackbaud/skyux-sdk-template-stache
 * https://github.com/blackbaud/skyux-docs-tools
 * https://github.com/blackbaud/skyux2-demos
